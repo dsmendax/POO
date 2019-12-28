@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=estado\ canalmax\ volmax\ canalac\ volact
+comment0.target=Tele(boolean,\ int,\ int,\ int,\ int)
+comment1.params=estado
+comment1.target=void\ setestado(boolean)
+comment10.params=
+comment10.target=int\ getvolact()
+comment2.params=
+comment2.target=boolean\ getestado()
+comment3.params=canalmax
+comment3.target=void\ setcanalmax(int)
+comment4.params=
+comment4.target=int\ getcanalmax()
+comment5.params=canalac
+comment5.target=void\ setcanalac(int)
+comment6.params=
+comment6.target=int\ getcanalac()
+comment7.params=volmax
+comment7.target=void\ setvolmax(int)
+comment8.params=
+comment8.target=int\ getvolmax()
+comment9.params=volact
+comment9.target=void\ setvolact(int)
+numComments=11

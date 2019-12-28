@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=estado\ capactual\ capatotal
+comment0.target=Olla(boolean,\ int,\ int)
+comment1.params=estado
+comment1.target=void\ setestado(boolean)
+comment2.params=
+comment2.target=boolean\ getestado()
+comment3.params=capactual
+comment3.target=void\ setcapactual(int)
+comment4.params=
+comment4.target=int\ getcapactual()
+comment5.params=capatotal
+comment5.target=void\ setcapatotal(int)
+numComments=6

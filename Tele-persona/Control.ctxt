@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=void\ apagarprender(Tele)
+comment1.params=t
+comment1.target=void\ subirvolumen(Tele)
+comment2.params=t
+comment2.target=void\ bajarvolumen(Tele)
+comment3.params=t
+comment3.target=void\ avanzarcanal(Tele)
+comment4.params=t
+comment4.target=void\ regresarcanal(Tele)
+numComments=5

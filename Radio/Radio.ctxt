@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=estado\ estacion\ volmax\ estact\ volact
+comment0.target=Radio(boolean,\ int,\ int,\ int,\ int)
+comment1.params=estado
+comment1.target=void\ setestado(boolean)
+comment10.params=
+comment10.target=int\ getvolact()
+comment2.params=
+comment2.target=boolean\ getestado()
+comment3.params=estacion
+comment3.target=void\ setestacion(int)
+comment4.params=
+comment4.target=int\ getestacion()
+comment5.params=estact
+comment5.target=void\ setestact(int)
+comment6.params=
+comment6.target=int\ getestact()
+comment7.params=volmax
+comment7.target=void\ setvolmax(int)
+comment8.params=
+comment8.target=int\ getvolmax()
+comment9.params=volact
+comment9.target=void\ setvolact(int)
+numComments=11

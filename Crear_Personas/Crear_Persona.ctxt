@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ leer_archivos()
+comment1.params=
+comment1.target=boolean\ lleno()
+comment2.params=persona
+comment2.target=void\ agregarpersona(Persona)
+comment3.params=
+comment3.target=void\ generamujeres()
+comment4.params=
+comment4.target=void\ generaHombres()
+comment5.params=per
+comment5.target=boolean\ serepite(Persona)
+comment6.params=
+comment6.target=void\ escribir()
+numComments=7

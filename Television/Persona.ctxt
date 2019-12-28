@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=Persona(java.lang.String)
+comment1.params=nombre
+comment1.target=void\ setnombre(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getnombre()
+comment3.params=t\ c
+comment3.target=void\ cambiarestado(Tele,\ Control)
+comment4.params=t\ c
+comment4.target=void\ subirvolumen(Tele,\ Control)
+comment5.params=t\ c
+comment5.target=void\ bajarvolumen(Tele,\ Control)
+comment6.params=t\ c
+comment6.target=void\ avanzarcanal(Tele,\ Control)
+comment7.params=t\ c
+comment7.target=void\ regresarcanal(Tele,\ Control)
+numComments=8

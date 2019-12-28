@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=Persona(java.lang.String)
+comment1.params=nombre
+comment1.target=void\ setnombre(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getnombre()
+comment3.params=L
+comment3.target=void\ abrirlibro(Libro)
+comment4.params=L
+comment4.target=void\ cerrarlibro(Libro)
+comment5.params=L\ S
+comment5.target=void\ ponerseparador(Libro,\ Separador)
+comment6.params=L
+comment6.target=void\ avanzarpag(Libro)
+comment7.params=L
+comment7.target=void\ retrocederpag(Libro)
+numComments=8
